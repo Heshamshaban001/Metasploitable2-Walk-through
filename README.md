@@ -16,7 +16,7 @@ scan the target using nmap
 --
 Nmap -sV -Sc 192.168.1.9
 
-get 12 open ports (21 -22-23-25-53-80-139-445-3306-5430-8009)
+found some open ports (21 -22--25-53-80-111,139-445-1009,514,1099,15243306-5430-8009)
  
   
 now lets walkthrough each port and see what we can do (separately and combined):
